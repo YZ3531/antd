@@ -1,7 +1,6 @@
 {
-  "name": "vue-antd-admin",
-  "version": "0.5.0",
-  "homepage": "https://iczer.github.io/vue-antd-admin",
+  "name": "antd",
+  "version": "1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
